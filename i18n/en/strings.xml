@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="appname">StudyCard</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="explain">Explain</string>
+    <string name="status">Status</string>
+    <string name="result">Result</string>
+    <string name="clear">Clear</string>
+    <string name="close">Close</string>
+</resources>

@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Q1",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explain": "E1"
+  },
+  {
+    "question": "Q2",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explain": "E2"
+  },
+  {
+    "question": "Q3",
+    "answers": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explain": "E3"
+  }
+]
